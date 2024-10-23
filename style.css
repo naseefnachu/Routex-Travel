@@ -1,0 +1,249 @@
+*{ text-decoration: none;
+ }
+.hdr{
+    height: 110px;
+}
+.img1{
+    width:210px;
+    height: 126px;
+    margin-left: -14px ;
+
+}
+.txt{
+    text-decoration: none;
+    color:skyblue;
+    height: 50px;
+    width: 1px;
+    display: flex;
+    font-size: x-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    margin-top: -20px;
+    margin-left: 20px;
+
+}
+.maintxt{
+    display: flex;
+    width: 200px;
+    height: 40px;
+ margin-left: 70px;
+ margin-top: -63px;
+ 
+}
+nav{ 
+    margin-left:390px;
+    
+}
+.mainav{
+    margin-top: -70px;
+
+}
+#nav1{
+    color: black;
+    font-size: large;
+}
+.contact{
+    margin-left: 87%;
+    font-size: medium;
+    margin-top:-55px ;
+    color: darkblue;
+}
+#img2{
+    height: 40px;
+    width: 40px;
+}
+.mainbg{
+    background-image: url(flyrtbg.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    height: 715px;
+    
+    
+}
+
+ .left-mainbg{
+    width: 50%;
+ }
+.right-mainbg{
+    display: flex;
+    flex-direction: column;
+    margin-top: 190px;
+    margin-left: 35px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.h1{ 
+    color:blue;
+}
+.para{ 
+    margin-top: 80px;
+   font-size: large;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#btn{
+    padding: 10px;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+   margin-left: 150px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   border-radius: 10px;
+   
+}
+.sec2{
+    display: flex;
+}
+.div1{
+    float: left;
+   
+}
+.div2{
+    float: right;
+}
+
+.cstmr1{
+    padding: 20px;
+    width: 450px;
+    border-radius: 50px;
+    margin-top:-180px ;
+
+
+}
+.cstmr2{
+    padding: 40px;
+    width: 450px;
+    border-radius: 90px;
+
+
+
+}
+.cstmr3{
+    padding: 20px;
+    width: 450px;
+    border-radius: 50px;
+    margin-top:-277px ;
+
+    
+}
+.exp{
+    background-color: skyblue;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+    font-size: small;
+    border-radius: 40px;
+    margin-left: 430px;
+    margin-top: -75px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.div2{
+    margin-top: 100px;
+
+}
+#rm{
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-left: 50px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sec3 a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+#service-div{
+    background-image: url(Brown\ and\ Cream\ Vintage\ World\ Map\ Paper\ Zoom\ Virtual\ Background.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.wine{
+    height: 120px;
+    width: 120px;
+}
+
+.services {
+   
+    padding: 80px 0;
+}
+
+.services h2 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 50px;
+}
+
+.services{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.service0 {
+    width: 30%;
+    background: rgb(135, 206, 235);
+    padding: 20px;
+    text-align: center;
+    border-radius: 5px;
+    border-radius: 20px;
+}
+
+.service-item h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.hr{
+    color: darkblue;
+    
+}
+footer{
+    background-color: rgb(124, 203, 218);
+    display: flex;
+    color: white;
+  
+    
+}
+#footerdiv{
+    display: flex;
+    margin-top: 70px;
+    background-image: url(mainlogo\ -\ bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    border-color: yellow;
+}
+.footer-links{
+    margin-left: 50px;
+   
+}
+.ql{
+    color: white;
+}
+
+.hg{
+    height: 30px;
+}
+#footergly{
+   height: 900px;
+   width: 90px;
+   margin-left: 80px;
+  
+}
+.ftrimg{
+    height: 150px;
+    width: auto;
+    border-radius: 20px;
+    
+}
+#img3{
+    margin-left: 250px;
+    height: 220px;
+    width: 180px;
+    border-radius: 20px;
+    margin-top: -306px;
+}
+
+    
